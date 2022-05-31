@@ -157,15 +157,18 @@
   }
 
   .headerText{
-    padding: 20px 30px;
+      padding: 140px 10vw;
+      margin: 30px ;
+      background-color: #FF69B4;
+      border-radius: 10px;
   }
 
   .box {
     display: flex;
-    flex-direction: column;
+    flex-flow: column wrap;
     width: 80vw;
     height: 100vh;
-    background-color: #faebd7;
+    background-color: white;
     border-radius: 10px;
   }
 
